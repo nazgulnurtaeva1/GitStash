@@ -5,5 +5,12 @@ public class Main {
 
         CarBasics car = new CarBasics();
 
+        car.number="hd7346";
+        car.engine="ffghfhd";
+        car.door="23";
+        car.color="redddd";
+
+        System.out.println(car.color);
+
     }
 }
